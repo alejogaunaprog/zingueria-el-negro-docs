@@ -64,6 +64,6 @@ Cada historia se vincula con un paso del [BPMN](bpmn/bpmn-gestion-de-pedidos.png
 
 | Historia | Estado | Observación |
 
-| HU-1 · Registrar pedido y obtener presupuesto | Por Hacer / En Progreso / Listo | actualizar según el tablero |
-| HU-2 · Seguir las órdenes de producción | Por Hacer / En Progreso / Listo | actualizar según el tablero |
-| HU-3 · Controlar el stock de chapa | Por Hacer / En Progreso / Listo | actualizar según el tablero |
+| HU-1 · Registrar pedido y obtener presupuesto | Listo | Modelada en el BPMN y en el diccionario de datos |
+| HU-2 · Seguir las órdenes de producción | En Progreso | Falta definir el detalle de las órdenes en el sistema |
+| HU-3 · Controlar el stock de chapa | Por Hacer | El stock se define en la próxima iteración del diccionario |
