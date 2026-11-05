@@ -25,8 +25,7 @@ Este repositorio aloja la **documentación técnica** del proyecto. No contiene 
 ## Documentación
 
 | Documento | Ubicación |
-|---|---|
-| Diagrama BPMN del proceso de gestión de pedidos | [`docs/bpmn/`](docs/docs/bpmn/LEEME.md) |
+| Diagrama BPMN del proceso de gestión de pedidos | [`docs/bpmn/`](docs/bpmn/LEEME.md) |
 | Historias de usuario | [`docs/historias-de-usuario.md`](docs/historias-de-usuario.md) |
 | Indicadores de control y estándares de desempeño | [`docs/indicadores-de-control.md`](docs/indicadores-de-control.md) |
 | Entrega 1 · Organización y sistema abierto (TGS) | [`docs/entregas/`](docs/entregas/TP1-organizacion-y-sistema-abierto.pdf) |
