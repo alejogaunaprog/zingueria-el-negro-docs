@@ -17,8 +17,8 @@ Este repositorio aloja la **documentación técnica** del proyecto. No contiene 
 
 ## Integrantes
 
-| Integrante | Rol |
-| Gauna Alejo | Autor del trabajo |
+| Integrante |
+| Gauna Alejo |
 
 **Cátedra:** Docente Titular López Mario Raúl · Docente Tutor Dominguez Gilda Jaquelina.
 
