@@ -35,7 +35,7 @@ Este repositorio aloja la **documentación técnica** del proyecto. No contiene 
 
 ## Tablero ágil
 
-Tablero de GitHub Projects
+Tablero de GitHub Projects: **[Zinguería El Negro - Backlog](https://github.com/users/alejogaunaprog/projects/1)**
 
 Columnas: **Por Hacer → En Progreso → Listo**. Las tres historias de usuario están vinculadas como *issues*.
 
@@ -61,5 +61,7 @@ Usé **Claude** como asistente en las cuatro entregas. Lo usé para ideas de dis
 | Resolver un problema de legibilidad | Revisé el resultado visual contra la hoja real |
 | "¿Por qué la clave?" sobre una columna PK/FK que la IA agregó en el diccionario de datos | Entender la decisión antes de aceptarla | La consigna no pedía esa columna; la cuestioné y la eliminé |
 | Entrega 4: leer la consigna, armar el BPMN, proponer las historias de usuario y los indicadores | Acelerar el armado de la documentación | Revisé cada resultado contra mi proceso real y contra el diccionario de datos |
+
+- Cada cambio se hace en una **rama secundaria** (`docs/bpmn`, `docs/historias-usuario`, `docs/indicadores-control`, `docs/entregas`) y llega a `main` mediante **Pull Request**. Por tratarse de un trabajo individual, la revisión es una **autorrevisión documentada** en el PR, con aval del docente (ver el [PR #1](https://github.com/alejogaunaprog/zingueria-el-negro-docs/pull/1)).
 
 Soy responsable de la veracidad y la coherencia de todo el contenido de este repositorio.
