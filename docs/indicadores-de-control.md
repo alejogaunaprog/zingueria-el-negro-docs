@@ -11,7 +11,7 @@ Indicadores para auditar el sistema de gestión de pedidos y control de producci
 | 3 | Cumplimiento de fecha de entrega | Pedidos entregados en o antes de `fecha_entrega_estimada` / pedidos entregados × 100 | 90 % o más | Mensual | Entidad Pedido |
 | 4 | Tasa de retrabajo | Piezas rechazadas en control de calidad / piezas controladas × 100 | 5 % o menos | Semanal | Órdenes de producción (compuerta "¿Pieza aprobada?") |
 | 5 | Quiebres de stock de chapa | Cantidad de pedidos demorados por falta de material | 0 por mes; alerta al llegar al stock mínimo | Mensual | Control de stock (HU-3) |
-| 6 | Desvío de cronograma del proyecto | (Semanas reales − semanas planificadas) / semanas planificadas × 100 | 10 % o menos sobre las 14 semanas del Gantt | Semanal | Tablero y diagrama de Gantt (TP2) |
+| 6 | Desvío de cronograma del proyecto | (Semanas reales − semanas planificadas) / semanas planificadas × 100 | 10 % o menos sobre las 16 semanas del Gantt | Semanal | Tablero y diagrama de Gantt (TP2) |
 
 ## Acciones correctivas
 
